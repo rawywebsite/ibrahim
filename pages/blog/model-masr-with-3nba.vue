@@ -5,16 +5,16 @@
               <h2 class="banner__big-text">فاشون</h2>
               </div>
               <div class="banner__shape-1">
-              <img src="assets/img/banner/hero-light-1.png" alt="">
+              <img src="/assets/img/banner/hero-light-1.png" alt="">
               </div>
               <div class="banner__shape-2">
-              <img src="assets/img/banner/hero-light-2.png" alt="">
+              <img src="/assets/img/banner/hero-light-2.png" alt="">
               </div>
               <div class="banner__shape-3">
-              <img src="assets/img/banner/shape-1.png" alt="">
+              <img src="/assets/img/banner/shape-1.png" alt="">
               </div>
               <div class="banner__shape-4">
-              <img src="assets/img/banner/Spiral.png" alt="">
+              <img src="/assets/img/banner/Spiral.png" alt="">
               </div>
               <div class="container">
               <div class="row align-items-center">
@@ -25,7 +25,7 @@
               </div>
               <div class="col-xl-6 col-lg-6 col-md-6">
               <div class="banner__main-img text-center">
-              <img src="assets/img/about.png" alt="">
+              <img src="/assets/img/about.png" alt="">
               </div>
               </div>
               </div>
@@ -39,7 +39,7 @@
                   <div dir="rtl" class="col-lg-12 text-black">
                      <div class="blog-details__wrapper">
                         <div class="blog-details__img pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                              <img class="w-100" src="assets/img/blog/1.png" alt="">
+                              <img class="w-100" src="/assets/img/blog/1.png" alt="">
                         </div>
                         <div class="blog-details__category pb-35 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                            <span><i class="fal fa-clock"></i> يناير 2023</span>
@@ -78,19 +78,19 @@
                       <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                           data-wow-delay=".5s">
                           <div class="service__item text-center">
-                                  <img src="assets/img/fashion/1.jpg" alt="">
+                                  <img src="/assets/img/fashion/1.jpg" alt="">
                           </div>
                       </div>
                       <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                           data-wow-delay=".5s">
                           <div class="service__item text-center">
-                                  <img src="assets/img/fashion/2.jpg" alt="">
+                                  <img src="/assets/img/fashion/2.jpg" alt="">
                           </div>
                       </div>
                       <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                           data-wow-delay=".5s">
                           <div class="service__item text-center">
-                                  <img src="assets/img/fashion/3.jpg" alt="">
+                                  <img src="/assets/img/fashion/3.jpg" alt="">
                           </div>
                       </div>
                       <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
@@ -141,7 +141,7 @@
                           data-wow-delay=".5s">
                           <div class="blog__item">
                               <div class="blog__item-img fix">
-                                  <a href="blog.html"><img src="assets/img/blog/blog-1.png" alt=""></a>
+                                  <a href="blog.html"><img src="/assets/img/blog/blog-1.png" alt=""></a>
                               </div>
                               <div class="blog__item-content">
                                   <div class="blog__category pb-35 d-flex justify-content-between">
@@ -162,7 +162,7 @@
                           data-wow-delay=".7s">
                           <div class="blog__item">
                               <div class="blog__item-img fix">
-                                  <a href="blog.html"><img src="assets/img/blog/blog-2.png" alt=""></a>
+                                  <a href="blog.html"><img src="/assets/img/blog/blog-2.png" alt=""></a>
                               </div>
                               <div class="blog__item-content">
                                   <div class="blog__category pb-35 d-flex justify-content-between">

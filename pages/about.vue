@@ -5,16 +5,16 @@
             <h2 class="banner__big-text">فاشون</h2>
             </div>
             <div class="banner__shape-1">
-            <img src="assets/img/banner/hero-light-1.png" alt="">
+            <img src="/assets/img/banner/hero-light-1.png" alt="">
             </div>
             <div class="banner__shape-2">
-            <img src="assets/img/banner/hero-light-2.png" alt="">
+            <img src="/assets/img/banner/hero-light-2.png" alt="">
             </div>
             <div class="banner__shape-3">
-            <img src="assets/img/banner/shape-1.png" alt="">
+            <img src="/assets/img/banner/shape-1.png" alt="">
             </div>
             <div class="banner__shape-4">
-            <img src="assets/img/banner/Spiral.png" alt="">
+            <img src="/assets/img/banner/Spiral.png" alt="">
             </div>
             <div class="container">
             <div class="row align-items-center">
@@ -25,7 +25,7 @@
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6">
             <div class="banner__main-img text-center">
-            <img src="assets/img/about.png" alt="">
+            <img src="/assets/img/about.png" alt="">
             </div>
             </div>
             </div>
@@ -45,7 +45,7 @@
     </div>
     <div class="work__author-box justify-content-end pt-15 d-flex align-items-center">
     <div class="work__author-img">
-    <img src="assets/img/work/work-2.png" alt="">
+    <img src="/assets/img/work/work-2.png" alt="">
     </div>
     <div class="work__author-info">
     <h4>أبراهيم جمال</h4>
@@ -56,7 +56,7 @@
     </div>
     <div class="col-xl-6 col-lg-6 col-md-12 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".8s">
     <div class="work__main-img">
-    <img class="w-100" src="assets/img/me.png" alt="">
+    <img class="w-100" src="/assets/img/me.png" alt="">
     </div>
     </div>
     </div>
@@ -144,19 +144,19 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/fashion/1.jpg" alt="">
+                                <img src="/assets/img/fashion/1.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/fashion/2.jpg" alt="">
+                                <img src="/assets/img/fashion/2.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/fashion/3.jpg" alt="">
+                                <img src="/assets/img/fashion/3.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
@@ -199,9 +199,9 @@
                     <div class="col-xl-5 col-lg-5 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".3s">
                         <div class="testimonial__main-img text-center">
                             <div class="testimonial__shape">
-                                <img src="assets/img/testimonial/testi-shape.png" alt="">
+                                <img src="/assets/img/testimonial/testi-shape.png" alt="">
                             </div>
-                            <img src="assets/img/testimonial/Untitled_design__10_-removebg-preview.png" alt="">
+                            <img src="/assets/img/testimonial/Untitled_design__10_-removebg-preview.png" alt="">
                         </div>
                     </div>
                     <div class="col-xl-7 col-lg-7 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
@@ -236,7 +236,7 @@
                                                         
                                                     </div>
                                                     <div class="col-lg-4">
-                                                        <img src="assets/img/stars/1.png" alt="">
+                                                        <img src="/assets/img/stars/1.png" alt="">
                                                     </div>
                                                 </div>
                                             </div>
@@ -268,7 +268,7 @@
                                                         
                                                     </div>
                                                     <div class="col-lg-4">
-                                                        <img src="assets/img/stars/4.png" alt="">
+                                                        <img src="/assets/img/stars/4.png" alt="">
                                                     </div>
                                                 </div>
                                             </div>
@@ -296,7 +296,7 @@
                         data-wow-delay=".5s">
                         <div class="blog__item">
                             <div class="blog__item-img fix">
-                                <NuxtLink to="/blog/model-masr-with-3nba"><img src="assets/img/blog/1.png" alt="k"></NuxtLink>
+                                <NuxtLink to="/blog/model-masr-with-3nba"><img src="/assets/img/blog/1.png" alt="k"></NuxtLink>
                             </div>
                             <div class="blog__item-content">
                                 <div class="blog__content text-center">
@@ -309,7 +309,7 @@
                         data-wow-delay=".7s">
                         <div class="blog__item">
                             <div class="blog__item-img fix">
-                                <NuxtLink href="/blog/model-masr-with-3mrosy"><img src="assets/img/blog/2.png" alt="k"></NuxtLink>
+                                <NuxtLink href="/blog/model-masr-with-3mrosy"><img src="/assets/img/blog/2.png" alt="k"></NuxtLink>
                             </div>
                             <div class="blog__item-content">
                                 <div class="blog__content text-center">

@@ -2,13 +2,13 @@
     <div>
             <div dir="rtl" class="hero__area blue-bg pt-60 p-relative fix">
             <div class="hero__shape-1 d-none d-lg-block">
-                <img src="assets/img/banner/hero-shape-4.png" alt="k">
+                <img src="/assets/img/banner/hero-shape-4.png" alt="k">
             </div>
             <div class="hero__shape-2 d-none d-sm-block">
-                <img src="assets/img/banner/project-shape-3.png" alt="k">
+                <img src="/assets/img/banner/project-shape-3.png" alt="k">
             </div>
             <div class="hero__shape-3 d-none d-lg-block">
-                <img src="assets/img/banner/hero-shape-5.1.png" alt="k">
+                <img src="/assets/img/banner/hero-shape-5.1.png" alt="k">
             </div>
             <div class="hero__gray-bg d-none d-lg-block"></div>
             <div class="circle-animation banner d-none d-lg-block">
@@ -23,7 +23,7 @@
                                 <h4 class="section-subtitle wow fadeInRight">اهلا بكم</h4>
                                 <h2 class="hero-title wow fadeInRight" ><div class="rbt-new-badge rbt-new-badge-one">
                                     أصغر مودل 
-                                    في مصر <img src="assets/img/71984.png" alt="">
+                                    في مصر <img src="/assets/img/71984.png" alt="">
                                 </div></h2>
                             </div>
                             <div class="hero__left-text mt-3 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
@@ -38,7 +38,7 @@
                     <div class="col-xl-5 col-lg-5 col-md-4">
                         <div class="hero__right-side text-center text-lg-start p-relative">
                             <div class="hero__right-img z-index-3">
-                                <img src="assets/img/Untitled_design__9_-removebg-preview.png" alt="k">
+                                <img src="/assets/img/Untitled_design__9_-removebg-preview.png" alt="k">
                                 <div class="hero__social-box d-none d-xl-block">
                                     <div class="hero__social">
                                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -70,19 +70,19 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/stars/1.png" alt="k">
+                                <img src="/assets/img/stars/1.png" alt="k">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/stars/2.png" alt="k">
+                                <img src="/assets/img/stars/2.png" alt="k">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/stars/3.png" alt="k">
+                                <img src="/assets/img/stars/3.png" alt="k">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
@@ -106,19 +106,19 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/fashion/1.jpg" alt="k">
+                                <img src="/assets/img/fashion/1.jpg" alt="k">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/fashion/2.jpg" alt="k">
+                                <img src="/assets/img/fashion/2.jpg" alt="k">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img src="assets/img/fashion/3.jpg" alt="k">
+                                <img src="/assets/img/fashion/3.jpg" alt="k">
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
@@ -162,9 +162,9 @@
                     <div class="col-xl-5 col-lg-5 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".3s">
                         <div class="testimonial__main-img text-center">
                             <div class="testimonial__shape">
-                                <img src="assets/img/testimonial/testi-shape.png" alt="k">
+                                <img src="/assets/img/testimonial/testi-shape.png" alt="k">
                             </div>
-                            <img src="assets/img/testimonial/Untitled_design__10_-removebg-preview.png" alt="k">
+                            <img src="/assets/img/testimonial/Untitled_design__10_-removebg-preview.png" alt="k">
                         </div>
                     </div>
                     <div class="col-xl-7 col-lg-7 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
@@ -199,7 +199,7 @@
                                                         
                                                     </div>
                                                     <div class="col-lg-4">
-                                                        <img src="assets/img/stars/1.png" alt="k">
+                                                        <img src="/assets/img/stars/1.png" alt="k">
                                                     </div>
                                                 </div>
                                             </div>
@@ -231,7 +231,7 @@
                                                         
                                                     </div>
                                                     <div class="col-lg-4">
-                                                        <img src="assets/img/stars/4.png" alt="k">
+                                                        <img src="/assets/img/stars/4.png" alt="k">
                                                     </div>
                                                 </div>
                                             </div>
@@ -277,7 +277,7 @@
                         data-wow-delay=".7s">
                         <div class="blog__item">
                             <div class="blog__item-img fix">
-                                <NuxtLink href="/blog/model-masr-with-3mrosy"><img src="assets/img/blog/2.png" alt="k"></NuxtLink>
+                                <NuxtLink href="/blog/model-masr-with-3mrosy"><img src="/assets/img/blog/2.png" alt="k"></NuxtLink>
                             </div>
                             <div class="blog__item-content">
                                 <div class="blog__content text-center">

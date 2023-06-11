@@ -4,18 +4,6 @@
             <div class="banner__text">
             <h2 class="banner__big-text">فاشون</h2>
             </div>
-            <div class="banner__shape-1">
-            <img src="/assets/img/banner/hero-light-1.png" alt="">
-            </div>
-            <div class="banner__shape-2">
-            <img src="/assets/img/banner/hero-light-2.png" alt="">
-            </div>
-            <div class="banner__shape-3">
-            <img src="/assets/img/banner/shape-1.png" alt="">
-            </div>
-            <div class="banner__shape-4">
-            <img src="/assets/img/banner/Spiral.png" alt="">
-            </div>
             <div class="container">
             <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6 col-md-6">

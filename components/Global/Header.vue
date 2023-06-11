@@ -18,14 +18,6 @@
             <div class="itoffcanvas__instagram-title">
                 <h4>Instagram</h4>
             </div>
-            <div class="itoffcanvas__instagram-img">
-                <a href="#"><img src="assets/img/project/pro-1.jpg" alt></a>
-                <a href="#"><img src="assets/img/project/pro-5.jpg" alt></a>
-                <a href="#"><img src="assets/img/project/pro-3.jpg" alt></a>
-                <a href="#"><img src="assets/img/project/pro-3.jpg" alt></a>
-                <a href="#"><img src="assets/img/project/pro-1.jpg" alt></a>
-                <a href="#"><img src="assets/img/project/pro-5.jpg" alt></a>
-            </div>
             <div class="itoffcanvas__contact">
                 <h4>we are here</h4>
                 <a href="/cdn-cgi/l/email-protection#542323237a3b26303d353a3d207a373b39">www.ordianit.com</a> <br>

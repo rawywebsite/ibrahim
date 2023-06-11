@@ -21,7 +21,7 @@
                         <div class="copyright__bottom-area">
                             <div class="copyright__bottom-logo wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".3s">
-                                <a href="index.html"><img src="assets/img/lineit.png" alt="l"></a>
+                                <a href="index.html"><img src="/assets/img/lineit.png" alt="l"></a>
                             </div>
                         </div>
                     </div>

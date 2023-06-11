@@ -32,9 +32,6 @@
       <p>حلمي أن اصبح من أفضل مصممي الأزياء في العالم</p>
       </div>
       <div class="work__author-box justify-content-end pt-15 d-flex align-items-center">
-      <div class="work__author-img">
-      <img src="/assets/img/work/work-2.png" alt="">
-      </div>
       <div class="work__author-info">
       <h4>أبراهيم جمال</h4>
       <span>موديل مصر</span>

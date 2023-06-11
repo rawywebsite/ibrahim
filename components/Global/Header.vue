@@ -9,15 +9,6 @@
         <div class="itoffcanvas">
             <div class="header__right p-relative">
                 <div class="header__img-content p-relative text-center">
-                    <div class="header__shape">
-                        <img src="assets/img/header/header-shape.png" alt>
-                    </div>
-                    <div class="header__img z-index-3">
-                        <a href="index.html">
-                            <img src="assets/img/header/header-img.png" alt>
-                        </a>
-                        <span></span>
-                    </div>
                     <div class="header__img-text">
                         <span>OLIVAREZ</span>
                     </div>

@@ -78,6 +78,7 @@ export default defineNuxtConfig({
       runtimeConfig: {
         public: {
           siteName: 'ابراهيم جمال : افضل موديل ازياء في مصر',
+           siteUrl: 'https://ibmodel.lineitsolutions.com',
           language: 'en-US'
         }
       }

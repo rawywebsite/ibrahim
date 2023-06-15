@@ -60,7 +60,7 @@
     <div class="row align-items-center">
     <div class="col-xl-6 col-lg-6 col-md-12 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
     <div class="work__item text-center" >
-    <h4 class="section-title">أنا ابراهيم</h4>
+    <h4 class="section-title">إبراهيم جمال</h4>
     <div class="work__item-text">
     <p>أحب : الموضة والملابس والتصوير</p>
     <p>حلمي أن اصبح من أفضل مصممي الأزياء في العالم</p>

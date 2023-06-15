@@ -56,7 +56,7 @@
                             <div class="hero__setion-title pb-15">
                                 <h4 class="section-subtitle wow fadeInRight">اهلا بكم في موقعي</h4>
                                 <h2 class="hero-title wow fadeInRight" ><div class="rbt-new-badge rbt-new-badge-one">
-                                    أصغر مودل 
+                                    أصغر موديل 
                                     في مصر <nuxt-img alt="صورة مصر في موقع اصغر موديل في مصر" loading="lazy" fit="cover" provider="cloudinary" src="/71984_ctokka.webp"/>
                                 </div></h2>
                             </div>
@@ -94,7 +94,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="service__section text-center">
-                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">أبراهيم والمشاهير</h4>
+                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">إبراهيم والمشاهير</h4>
                         </div>
                     </div>
                 </div>

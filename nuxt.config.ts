@@ -17,6 +17,7 @@ export default defineNuxtConfig({
             { rel: 'stylesheet', href: '/assets/css/font-awesome-pro.css' },
             { rel: 'stylesheet', href: '/assets/css/magnific-popup.css' },
             { rel: 'stylesheet', href: '/assets/css/spacing.css' },
+            { rel: 'stylesheet', href: '/assets/css/style.css' },
         ],
         meta: [
           { name: 'theme-color', content: '#EBEBF9' },
@@ -58,15 +59,17 @@ export default defineNuxtConfig({
         script: [
           // { src: '/assets/js/yt.js', body: true },
         ],
+        
         },
       },
+      
       modules: [
         '@nuxt/image',
       ],
       image: {
         provider: 'cloudinary',
         cloudinary: {
-          baseURL: 'https://res.cloudinary.com/dzxbbqq4l/image/upload/v1686515220',
+          baseURL: 'https://res.cloudinary.com/dzxbbqq4l/image/upload/v1686783493',
         },
       },
       extends: [
@@ -75,7 +78,7 @@ export default defineNuxtConfig({
       runtimeConfig: {
         public: {
           siteName: 'ابراهيم جمال : افضل موديل ازياء في مصر',
-          language: 'ar-ae'
+          language: 'en-US'
         }
       }
 })

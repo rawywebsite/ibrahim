@@ -38,16 +38,16 @@
          <div class="blog-details__area gray-bg pt-120 pb-120">
             <div class="container">
                <div class="row">
-                  <div dir="rtl" class="col-lg-12 text-black">
+                  <div class="col-lg-12 text-black">
                      <div class="blog-details__wrapper">
                         <div class="blog-details__img pb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            <nuxt-img alt="اصغر موديل في مصر مع عنبة" loading="lazy" fit="cover" provider="cloudinary" src="/blog1_nsppkq.webp"/>
+                            <nuxt-img alt="the younger model in egypt with 3nba" loading="lazy" fit="cover" provider="cloudinary" src="/blog1_nsppkq.webp"/>
                         </div>
                         <div class="blog-details__category pb-35 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                           <span><i class="fal fa-clock"></i> يناير 2023</span>
+                           <span><i class="fal fa-clock"></i> January 2023</span>
                         </div>
                         <div class="blog-details__text pb-40">
-                           <p class="pb-20 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">قابل اصغر موديل في مصر عنبة في محل الياس كان يصمم له بدلته وقال له انه يتمني له التوفيق</p>
+                           <p class="pb-20 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">He met the younger model in Egypt, Enaba, in Elias' shop, who was designing his suit for him, and told him that he wished him success</p>
                         </div>
                         <div class="blog-details__client-review mb-40 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                            <blockquote>
@@ -55,9 +55,9 @@
                                  <span><i class="fal fa-quote-right"></i></span>
                               </div>
                               <div class="blog-details__client-content">
-                                 <p>أصغر مودل في مصر ثقة في الله نجاح
+                                <p>The younger model in Egypt, trust in God, success
 </p>
-                                 <span>عنبة</span>
+                                 <span>3nba</span>
                               </div>
                            </blockquote>
                         </div>
@@ -72,7 +72,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="service__section text-center">
-                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">أبراهيم والموضة</h4>
+                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">Ibrahim & Fashion</h4>
                         </div>
                     </div>
                 </div>
@@ -80,30 +80,30 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر فاشون 1" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
+                                <nuxt-img alt="Picture ibrahim gamal the younger model in Egypt Fashion 1" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر فاشون 2" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
+                                <nuxt-img alt="Picture ibrahim gamal the younger model in Egypt Fashion 2" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر فاشون 3" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
+                                <nuxt-img alt="Picture ibrahim gamal the younger model in Egypt Fashion 3" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay="1s">
                         <div class="service__item text-center">
                             <div class="service__item-link">
-                                <NuxtLink to="/gallery">جميع صور أبراهيم والموضة<i class="far fa-long-arrow-right"></i></NuxtLink>
+                                <NuxtLink to="/en/gallery">All Fashion Images<i class="far fa-long-arrow-right"></i></NuxtLink>
                             </div>
-                          </div>
-                      </div>
-                  </div>
+                        </div>
+                    </div>
+                </div>
               </div>
           </div>
           <div class="images__area grey-bg fix p-relative pt-100">
@@ -136,10 +136,21 @@
   <script setup lang="ts">
   useHead({
     title: 'Home Page App',
+    titleTemplate: 'Ibrahim Gamal the Younger Model in egypt | Deal With 3nba ',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
+            { name: 'description', content: 'Ibrahim Gamal: The Younger Model in Egypt Deal With 3nba - The Best Fashion Designer and Suit Model in Egypt with stars' },
+            { name: 'keywords', content: 'The younger model in Egypt Deal With 3nba, Ibrahim Gamal, the best fashion designer in Egypt, Ibrahim Model Egypt, Ibrahim Model, fashion design, fashion, best suit model model' },
+            { name: 'apple-mobile-web-app-title', content: 'Ibrahim best fashion model in Egypt Deal With 3nba' },
+            { name: 'application-name', content: 'Ibrahim best fashion model in Egypt Deal With 3nba' },
+            { name: 'og:site_name', content: 'Ibrahim best fashion model in Egypt Deal With 3nba' },
+            { name: 'og:title', content: 'Ibrahim best fashion model in Egypt Deal With 3nba' },
+            { name: 'og:description', content: 'Ibrahim best fashion model in Egypt' },
+            { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt Deal With 3nba' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/blog/model-masr-with-3nba' },
+            { name: 'subject', content: 'Ibrahim best fashion model in Egypt Deal With 3nba' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/blog/model-masr-with-3nba' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/blog/model-masr-with-3nba' },
+        ],
     link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },
         ],

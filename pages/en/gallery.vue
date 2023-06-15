@@ -26,7 +26,6 @@
                     </div>
                     <div class="col-xl-2 col-lg-6 col-md-6 col-6">
                         <div class="header-top__right-side d-flex align-items-center justify-content-end">
-                            <button class="it-menu-bar bar d-xl-none"><i class="far fa-stream"></i></button>
                             <a target="_blank" href="https://wa.me/+201148774722" class="main-btn d-none d-xl-block d-sm-none">Contact Me</a>
                         </div>
                     </div>
@@ -34,20 +33,20 @@
             </div>
         </div>
     </header>
-        <div class="banner__area p-relative z-index-3 banner__space blue-bg pb-130 pt-60">
+    <div class="banner__area p-relative z-index-3 banner__space blue-bg pb-130 pt-60">
             <div class="banner__text">
-            <h2 class="banner__big-text">فاشون</h2>
+            <h2 class="banner__big-text">Fashion</h2>
             </div>
             <div class="container">
             <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="banner__main-img text-center">
+                <nuxt-img alt = "Ibrahim Gamal's banner image for the Model Egypt page images on the Youngest Model in Egypt website" loading="lazy" fit="cover" provider="cloudinary" src="/ib_error.png"/>
+            </div>
+            </div>
             <div class="col-xl-6 col-lg-6 col-md-6">
             <div class="banner__section text-center">
-            <h4 class="banner-section-title"><span>.</span> صور </h4>
-            </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
-            <div class="banner__main-img text-center">
-                <nuxt-img alt="صورة موديل مصر في موقع اصغر موديل في مصر" loading="lazy" fit="cover" provider="cloudinary" src="/ib_error.webp"/>
+            <h4 class="banner-section-title"> Gallery<span>.</span></h4>
             </div>
             </div>
             </div>
@@ -60,7 +59,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="service__section text-center">
-                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">صور الموضة</h4>
+                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">Gallery</h4>
                         </div>
                     </div>
                 </div>
@@ -68,49 +67,49 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع عنبة" loading="lazy" src="/assets/img/fashion/1.webp"/>
+                                <img alt="Photo of the younger model in Egypt in a suit" loading="lazy" src="/assets/img/fashion/1.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع محمد عز" loading="lazy" src="/assets/img/fashion/2.webp"/>
+                                <img alt="Photo of the younger model in Egypt in a suit" loading="lazy" src="/assets/img/fashion/2.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
+                                <nuxt-img alt="Photo of the younger model in Egypt in a suit" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" src="/assets/img/fashion/3.webp"/>
+                                <img alt="Photo of the younger model in Egypt in a suit" loading="lazy" src="/assets/img/fashion/3.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" src="/assets/img/fashion/4.webp"/>
+                                <img alt="Photo of the younger model in Egypt in a suit" loading="lazy" src="/assets/img/fashion/4.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" src="/assets/img/fashion/5.webp"/>
+                                <img alt="Photo of the younger model in Egypt in a suit" loading="lazy" src="/assets/img/fashion/5.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
+                                <nuxt-img alt="Photo of the younger model in Egypt in a suit" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
+                                <nuxt-img alt="Photo of the younger model in Egypt in a suit" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
                         </div>
                     </div>
                 </div>
@@ -230,11 +229,21 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
-    meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
+    titleTemplate: 'Ibrahim Gamal the Younger Model in egypt | Gallery ',
+        meta: [
+            { name: 'description', content: 'Ibrahim Gamal: The Younger Model in Egypt Images gallery - The Best Fashion Designer and Suit Model in Egypt with stars' },
+            { name: 'keywords', content: 'The younger model in Egypt Images gallery, Ibrahim Gamal, the best fashion designer in Egypt, Ibrahim Model Egypt, Ibrahim Model, fashion design, fashion, best suit model model' },
+            { name: 'apple-mobile-web-app-title', content: 'Ibrahim best fashion model in Egypt Images gallery' },
+            { name: 'application-name', content: 'Ibrahim best fashion model in Egypt Images gallery' },
+            { name: 'og:site_name', content: 'Ibrahim best fashion model in Egypt Images gallery' },
+            { name: 'og:title', content: 'Ibrahim best fashion model in Egypt Images gallery' },
+            { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
+            { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt Images gallery' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/gallery' },
+            { name: 'subject', content: 'Ibrahim best fashion model in Egypt Images gallery' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/gallery' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/gallery' },
+        ],
     link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },
         ],

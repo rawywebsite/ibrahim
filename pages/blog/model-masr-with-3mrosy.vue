@@ -16,10 +16,10 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
-                                    <li class="text-center"><NuxtLink to="/en/model-masr-with-3mrosy">English</NuxtLink></li>
+                                    <li class="text-center"><NuxtLink to="/en/blog/model-masr-with-3mrosy">English</NuxtLink></li>
                                 </ul>
                             </nav>
                         </div>
@@ -47,7 +47,7 @@
                            <span><i class="fal fa-clock"></i> يناير 2023</span>
                         </div>
                         <div class="blog-details__text pb-40">
-                           <p class="pb-20 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">قابل اصغر موديل في مصر عنبة في محل الياس كان يصمم له بدلته وقال له انه يتمني له التوفيق</p>
+                           <p class="pb-20 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">قابل اصغر موديل في مصر عمرو عمروسي الممثل في محل الياس كان يصمم له بدلته وقال له كلام جميل</p>
                         </div>
                         <div class="blog-details__client-review mb-40 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                            <blockquote>
@@ -55,9 +55,9 @@
                                  <span><i class="fal fa-quote-right"></i></span>
                               </div>
                               <div class="blog-details__client-content">
-                                 <p>أصغر مودل في مصر ثقة في الله نجاح
+                                 <p>أبراهيم أخويا وحبيبي أحلي مودل في مصر وأصغر مودل في مصر خلي بالك أصغر دي متقللش بالعكس دا راجل محترم جدا ربنا يكرمو أن شاء الله النجاح الدائم ليه 
 </p>
-                                 <span>عنبة</span>
+                                 <span>عمروسي</span>
                               </div>
                            </blockquote>
                         </div>
@@ -134,13 +134,20 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
+    title: 'مقابلة عمروسي',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
-    link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
+            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر مع عمروسي - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء مع عمروسي ' },
+            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر مع عمروسي, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
+            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | مقابلة عمروسي' },
+            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | مع عمروسي' },
+            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | مع عمروسي' },
+            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | مع عمروسي' },
+            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | مع عمروسي' },
+            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3mrosy' },
+            { name: 'subject', content: 'ابرهيم أصغر موديل في مصر مع عمروسي' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3mrosy' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3mrosy' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

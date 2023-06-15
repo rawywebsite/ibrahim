@@ -16,7 +16,7 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
                                     <li class="text-center"><NuxtLink to="/en/about">English</NuxtLink></li>
@@ -66,9 +66,6 @@
     <p>حلمي أن اصبح من أفضل مصممي الأزياء في العالم</p>
     </div>
     <div class="work__author-box justify-content-end pt-15 d-flex align-items-center">
-    <div class="work__author-img">
-    <img src="/assets/img/work/work-2.png" alt="">
-    </div>
     <div class="work__author-info">
     <h4>أبراهيم جمال</h4>
     <span>موديل مصر</span>
@@ -311,13 +308,20 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Home Page App',
+  title: 'معلومات',
   meta: [
-      { name: 'description', content: 'My amazing site.' },
-      { name: 'robots', content: 'noindex, follow' },
-  ],
-  link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
+            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر معلومات - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء ومعلومات عنه ' },
+            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر معلومات, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
+            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
+            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
+            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
+            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
+            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
+            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/feedback' },
+            { name: 'subject', content: 'ابرهيم أصغر موديل في مصر معلومات' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/feedback' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/feedback' },
         ],
   script: [
   { hid: 'instagram', type: 'text/javascript', src: '//www.instagram.com/embed.js', async: true, defer: true },

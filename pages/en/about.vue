@@ -36,20 +36,21 @@
     </header>
         <div class="banner__area p-relative z-index-3 banner__space blue-bg pb-130 pt-60">
             <div class="banner__text">
-            <h2 class="banner__big-text">فاشون</h2>
+            <h2 class="banner__big-text">Fashion</h2>
             </div>
             <div class="container">
             <div class="row align-items-center">
-            <div class="col-xl-6 col-lg-6 col-md-6">
-            <div class="banner__section text-center">
-            <h4 class="banner-section-title"><span>.</span>معلومات </h4>
-            </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
+                <div class="col-xl-6 col-lg-6 col-md-6">
             <div class="banner__main-img text-center">
                 <nuxt-img alt="صورة ابراهيم جمال بانر لصفحة المعلومات في موقع اصغر موديل في مصر" loading="lazy" fit="cover" provider="cloudinary" src="/ib_about.webp"/>
             </div>
             </div>
+            <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="banner__section text-center">
+            <h4 class="banner-section-title">About<span>.</span> </h4>
+            </div>
+            </div>
+            
             </div>
             </div>
             </div>
@@ -58,27 +59,24 @@
 <div class="work__area grey-bg pt-120 pb-120">
     <div class="container">
     <div class="row align-items-center">
-    <div class="col-xl-6 col-lg-6 col-md-12 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
-    <div class="work__item text-center" >
-    <h4 class="section-title">أنا ابراهيم</h4>
-    <div class="work__item-text">
-    <p>أحب : الموضة والملابس والتصوير</p>
-    <p>حلمي أن اصبح من أفضل مصممي الأزياء في العالم</p>
-    </div>
-    <div class="work__author-box justify-content-end pt-15 d-flex align-items-center">
-    <div class="work__author-img">
-    <img src="/assets/img/work/work-2.png" alt="">
-    </div>
-    <div class="work__author-info">
-    <h4>أبراهيم جمال</h4>
-    <span>موديل مصر</span>
-    </div>
-    </div>
-    </div>
-    </div>
-    <div class="col-xl-6 col-lg-6 col-md-12 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".8s">
+        <div class="col-xl-6 col-lg-6 col-md-12 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".8s">
     <div class="work__main-img">
     <img class="w-100" src="/assets/img/me.png" alt="">
+    </div>
+    </div>
+    <div class="col-xl-6 col-lg-6 col-md-12 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
+    <div class="work__item text-center" >
+    <h4 class="section-title">Ibrahim</h4>
+    <div class="work__item-text">
+    <p>I Love: fashion, clothes and photography</p>
+    <p>My dream is to become one of the best fashion designers in the world</p>
+    </div>
+    <div class="work__author-box justify-content-start pt-15 d-flex align-items-center">
+    <div class="work__author-info">
+    <h4>Ibrahim Gamal</h4>
+    <span>Model Egypt</span>
+    </div>
+    </div>
     </div>
     </div>
     </div>
@@ -91,7 +89,7 @@
     <div class="row">
     <div class="col-xl-12">
     <div class="service__section text-center">
-    <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">خدمات جيدة للعملاء</h4>
+    <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">Good services for customer</h4>
     </div>
     </div>
     </div>
@@ -99,24 +97,24 @@
     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
     <div class="service__item text-center">
     <div class="service__item-text">
-    <h4 class="service__item-title"><a href="#">صور</a></h4>
-    <p>أحترافية في تصوير الصور بكاميرا ايفون</p>
+    <h4 class="service__item-title"><a href="#">Images</a></h4>
+    <p>Professional in taking pictures with an iPhone</p>
     </div>
     </div>
     </div>
     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
         <div class="service__item text-center">
         <div class="service__item-text">
-        <h4 class="service__item-title"><a href="#">موديل</a></h4>
-        <p>يمكنني التصوير بملابس اي براند بأسعار رمزية</p>
+        <h4 class="service__item-title"><a href="#">Model</a></h4>
+        <p>I can model with any brand clothes at best price</p>
         </div>
         </div>
         </div>
         <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
             <div class="service__item text-center">
             <div class="service__item-text">
-            <h4 class="service__item-title"><a href="#">فديو</a></h4>
-            <p>أحترافية في تصوير الفديوهات بكاميرا ايفون</p>
+            <h4 class="service__item-title"><a href="#">Video</a></h4>
+            <p>Professional in shooting videos with an iPhone</p>
             </div>
             </div>
             </div>
@@ -130,7 +128,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="service__section text-center">
-                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">بعض فديوهاتي</h4>
+                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">Some Of my videos</h4>
                         </div>
                     </div>
                 </div>
@@ -158,7 +156,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="service__section text-center">
-                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">أبراهيم والموضة</h4>
+                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">Ibrahim & Fashion</h4>
                         </div>
                     </div>
                 </div>
@@ -166,26 +164,26 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر فاشون 1" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
+                                <nuxt-img alt="Picture ibrahim gamal the younger model in Egypt Fashion 1" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر فاشون 2" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
+                                <nuxt-img alt="Picture ibrahim gamal the younger model in Egypt Fashion 2" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر فاشون 3" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
+                                <nuxt-img alt="Picture ibrahim gamal the younger model in Egypt Fashion 3" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay="1s">
                         <div class="service__item text-center">
                             <div class="service__item-link">
-                                <NuxtLink to="/gallery">جميع صور أبراهيم والموضة<i class="far fa-long-arrow-right"></i></NuxtLink>
+                                <NuxtLink to="/en/gallery">All Fashion Images<i class="far fa-long-arrow-right"></i></NuxtLink>
                             </div>
                         </div>
                     </div>
@@ -306,11 +304,21 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Home Page App',
-  meta: [
-      { name: 'description', content: 'My amazing site.' },
-      { name: 'robots', content: 'noindex, follow' },
-  ],
+    titleTemplate: 'Ibrahim Gamal the Younger Model in egypt | Busines ',
+    meta: [
+            { name: 'description', content: 'Ibrahim Gamal: The Younger Model in Egypt Busines - The Best Fashion Designer and Suit Model in Egypt with stars' },
+            { name: 'keywords', content: 'The younger model in Egypt Busines, Ibrahim Gamal, the best fashion designer in Egypt, Ibrahim Model Egypt, Ibrahim Model, fashion design, fashion, best suit model model' },
+            { name: 'apple-mobile-web-app-title', content: 'Ibrahim best fashion model in Egypt Busines' },
+            { name: 'application-name', content: 'Ibrahim best fashion model in Egypt Busines' },
+            { name: 'og:site_name', content: 'Ibrahim best fashion model in Egypt Busines' },
+            { name: 'og:title', content: 'Ibrahim best fashion model in Egypt Busines' },
+            { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
+            { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt Busines' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/about' },
+            { name: 'subject', content: 'Ibrahim best fashion model in Egypt Busines' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/about' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/about' },
+        ],
   link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },
         ],

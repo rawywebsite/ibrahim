@@ -16,7 +16,7 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
                                     <li class="text-center"><NuxtLink to="/en/ibrahim-with-stars">English</NuxtLink></li>
@@ -54,7 +54,7 @@
             </div>
             </div>
   
-              
+            
             <div class="images__area grey-bg fix p-relative pt-100">
             <div class="container">
                 <div class="row">
@@ -86,31 +86,31 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/star4.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر مع عمروسي" loading="lazy" fit="cover" provider="cloudinary" src="/star4.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/star5.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر مع مصطفي منصور" loading="lazy" fit="cover" provider="cloudinary" src="/star5.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/star6.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر مع امح" loading="lazy" fit="cover" provider="cloudinary" src="/star6.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/star7.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر مع كريم سرور" loading="lazy" fit="cover" provider="cloudinary" src="/star7.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/star8.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر مع محمد رضوان" loading="lazy" fit="cover" provider="cloudinary" src="/star8.webp"/>
                         </div>
                     </div>
                 </div>
@@ -144,13 +144,20 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
+    title: 'ابراهيم مع المشاهير',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
-    link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
+            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر والمشاهير - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء وصوره مع المشاهير ' },
+            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر والمشاهير, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
+            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | والمشاهير' },
+            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | والمشاهير' },
+            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | والمشاهير' },
+            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | والمشاهير' },
+            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | والمشاهير' },
+            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/ibrahim-with-stars' },
+            { name: 'subject', content: 'ابرهيم أصغر موديل في مصر والمشاهير' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/ibrahim-with-stars' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/ibrahim-with-stars' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

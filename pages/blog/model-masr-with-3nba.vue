@@ -16,10 +16,10 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
-                                    <li class="text-center"><NuxtLink to="/en/model-masr-with-3nba">English</NuxtLink></li>
+                                    <li class="text-center"><NuxtLink to="/en/blog/model-masr-with-3nba">English</NuxtLink></li>
                                 </ul>
                             </nav>
                         </div>
@@ -134,13 +134,20 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
+    title: 'مقابلة عنبة',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
-    link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
+            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر مع عنبة - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء مع عنبة ' },
+            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر مع عنبة, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
+            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | مقابلة عنبة' },
+            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | مع عنبة' },
+            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | مع عنبة' },
+            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | مع عنبة' },
+            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | مع عنبة' },
+            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3nba' },
+            { name: 'subject', content: 'ابرهيم أصغر موديل في مصر مع عنبة' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3nba' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3nba' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

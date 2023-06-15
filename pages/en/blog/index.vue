@@ -40,11 +40,21 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
+    titleTemplate: 'Ibrahim Gamal the Younger Model in egypt | Blog ',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
+            { name: 'description', content: 'Ibrahim Gamal: The Younger Model in Egypt articles - The Best Fashion Designer and Suit Model in Egypt with stars' },
+            { name: 'keywords', content: 'The younger model in Egypt articles, Ibrahim Gamal, the best fashion designer in Egypt, Ibrahim Model Egypt, Ibrahim Model, fashion design, fashion, best suit model model' },
+            { name: 'apple-mobile-web-app-title', content: 'Ibrahim best fashion model in Egypt articles' },
+            { name: 'application-name', content: 'Ibrahim best fashion model in Egypt articles' },
+            { name: 'og:site_name', content: 'Ibrahim best fashion model in Egypt articles' },
+            { name: 'og:title', content: 'Ibrahim best fashion model in Egypt articles' },
+            { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
+            { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt articles' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/blog' },
+            { name: 'subject', content: 'Ibrahim best fashion model in Egypt articles' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/blog' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/blog' },
+        ],
     link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },
         ],

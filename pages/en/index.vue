@@ -278,20 +278,20 @@
   
   <script setup lang="ts">
     useHead({
-        title: 'الصفحة الرئيسية',
+        titleTemplate: 'Ibrahim Gamal the Younger Model in egypt | Home Page ',
         meta: [
-            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء في مصر ' },
-            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
-            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
-            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
-            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
-            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
-            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
-            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com' },
-            { name: 'subject', content: 'الصفحة الرئيسية لأصغر موديل في مصر' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com' },
+            { name: 'description', content: 'Ibrahim Gamal: The Younger Model in Egypt - The Best Fashion Designer and Suit Model in Egypt' },
+            { name: 'keywords', content: 'The younger model in Egypt, Ibrahim Gamal, the best fashion designer in Egypt, Ibrahim Model Egypt, Ibrahim Model, fashion design, fashion, best suit model model' },
+            { name: 'apple-mobile-web-app-title', content: 'Ibrahim best fashion model in Egypt' },
+            { name: 'application-name', content: 'Ibrahim best fashion model in Egypt' },
+            { name: 'og:site_name', content: 'Ibrahim best fashion model in Egypt' },
+            { name: 'og:title', content: 'Ibrahim best fashion model in Egypt' },
+            { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
+            { name: 'twitter:description', content: 'Ibrahim  best fashion model in Egypt' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en' },
+            { name: 'subject', content: 'Ibrahim  best fashion model in Egypt' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en' },
         ],
         link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },

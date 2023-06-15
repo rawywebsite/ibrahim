@@ -16,7 +16,7 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
                                     <li class="text-center"><NuxtLink to="/en/blog">English</NuxtLink></li>
@@ -37,16 +37,23 @@
       <GlobalArFooter />
     </div>
   </template>
-  
+
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
+    title: 'مقالات تهمك',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
-    link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
+            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر مقالات مفيدة - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء مقالات مفيدة ' },
+            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر مقالات مفيدة, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
+            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | مقالات' },
+            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | مقالات مفيدة' },
+            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | مقالات مفيدة' },
+            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | مقالات مفيدة' },
+            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | مقالات مفيدة' },
+            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/blog' },
+            { name: 'subject', content: 'ابرهيم أصغر موديل في مصر مقالات مفيدة' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/blog' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/blog' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

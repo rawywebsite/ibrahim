@@ -34,20 +34,20 @@
             </div>
         </div>
     </header>
-        <div class="banner__area p-relative z-index-3 banner__space blue-bg pb-130 pt-60">
+    <div class="banner__area p-relative z-index-3 banner__space blue-bg pb-130 pt-60">
             <div class="banner__text">
-            <h2 class="banner__big-text">فاشون</h2>
+            <h2 class="banner__big-text">Fashion</h2>
             </div>
             <div class="container">
             <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+            <div class="banner__main-img text-center">
+                <nuxt-img alt = "Ibrahim Gamal's banner image for the Model Egypt page with Stars on the Youngest Model in Egypt website" loading="lazy" fit="cover" provider="cloudinary" src="/ib_feedback.png"/>
+            </div>
+            </div>
             <div class="col-xl-6 col-lg-6 col-md-6">
             <div class="banner__section text-center">
-            <h4 class="banner-section-title"><span>.</span>اراء </h4>
-            </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6">
-            <div class="banner__main-img text-center">
-                <nuxt-img alt="صورة ابراهيم جمال بانر لصفحة اراء العملاء في موقع اصغر موديل في مصر" loading="lazy" fit="cover" provider="cloudinary" src="/ib_feedback.png"/>
+            <h4 class="banner-section-title"> Feedback<span>.</span></h4>
             </div>
             </div>
             </div>
@@ -143,11 +143,21 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
-    meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
+    titleTemplate: 'Ibrahim Gamal the Younger Model in egypt | Clients Feedback ',
+        meta: [
+            { name: 'description', content: 'Ibrahim Gamal: The Younger Model in Egypt Clients Feedback - The Best Fashion Designer and Suit Model in Egypt with stars' },
+            { name: 'keywords', content: 'The younger model in Egypt Clients Feedback, Ibrahim Gamal, the best fashion designer in Egypt, Ibrahim Model Egypt, Ibrahim Model, fashion design, fashion, best suit model model' },
+            { name: 'apple-mobile-web-app-title', content: 'Ibrahim best fashion model in Egypt Clients Feedback' },
+            { name: 'application-name', content: 'Ibrahim best fashion model in Egypt Clients Feedback' },
+            { name: 'og:site_name', content: 'Ibrahim best fashion model in Egypt Clients Feedback' },
+            { name: 'og:title', content: 'Ibrahim best fashion model in Egypt Clients Feedback' },
+            { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
+            { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt Clients Feedback' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/feedback' },
+            { name: 'subject', content: 'Ibrahim best fashion model in Egypt Clients Feedback' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/feedback' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/feedback' },
+        ],
     link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },
         ],

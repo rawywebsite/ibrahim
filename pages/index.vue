@@ -16,7 +16,7 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
                                     <li class="text-center"><NuxtLink to="/en">English</NuxtLink></li>
@@ -297,9 +297,6 @@
             { name: 'subject', content: 'الصفحة الرئيسية لأصغر موديل في مصر' },
             { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com' },
             { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com' },
-        ],
-        link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
         ],
         script: [
             { src: '/assets/js/jquery.js', body: true },

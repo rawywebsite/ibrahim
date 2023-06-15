@@ -16,7 +16,7 @@
                                 <ul>
                                     <li><NuxtLink to="/about">معلومات</NuxtLink></li>
                                     <li><NuxtLink to="/ibrahim-with-stars">أبراهيم والمشاهير</NuxtLink></li>
-                                    <li><NuxtLink to="/gallery">صور الموضة</NuxtLink></li>
+                                    <li><NuxtLink to="/gallery">معرض الصور</NuxtLink></li>
                                     <li><NuxtLink to="/feedback">أراء العملاء</NuxtLink></li>
                                     <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
                                     <li class="text-center"><NuxtLink to="/en/gallery">English</NuxtLink></li>
@@ -42,7 +42,7 @@
             <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6 col-md-6">
             <div class="banner__section text-center">
-            <h4 class="banner-section-title"><span>.</span> صور </h4>
+            <h4 class="banner-section-title"><span>.</span> المعرض </h4>
             </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6">
@@ -60,7 +60,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="service__section text-center">
-                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">صور الموضة</h4>
+                            <h4 class="section-title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">معرض الصور</h4>
                         </div>
                     </div>
                 </div>
@@ -68,49 +68,49 @@
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع عنبة" loading="lazy" src="/assets/img/fashion/1.webp"/>
+                                <img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" src="/assets/img/fashion/1.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع محمد عز" loading="lazy" src="/assets/img/fashion/2.webp"/>
+                                <img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" src="/assets/img/fashion/2.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" fit="cover" provider="cloudinary" src="/3_gplrsj.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" src="/assets/img/fashion/3.webp"/>
+                                <img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" src="/assets/img/fashion/3.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" src="/assets/img/fashion/4.webp"/>
+                                <img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" src="/assets/img/fashion/4.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" src="/assets/img/fashion/5.webp"/>
+                                <img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" src="/assets/img/fashion/5.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" fit="cover" provider="cloudinary" src="/1_jgupkv.webp"/>
                         </div>
                     </div>
                     <div class="col-xxl-4 col-xl-6 col-lg-6 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                         <div class="service__item text-center">
-                                <nuxt-img alt="صورة اصغر موديل في مصر مع توهامي" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
+                                <nuxt-img alt="صورة اصغر موديل في مصر ببدلة تركي" loading="lazy" fit="cover" provider="cloudinary" src="/2_zrtf98.webp"/>
                         </div>
                     </div>
                 </div>
@@ -144,13 +144,20 @@
   
   <script setup lang="ts">
   useHead({
-    title: 'Home Page App',
+    title: 'معرض الصور',
     meta: [
-        { name: 'description', content: 'My amazing site.' },
-        { name: 'robots', content: 'noindex, follow' },
-    ],
-    link: [
-            { rel: 'stylesheet', href: '/assets/css/style.css' },
+            { name: 'description', content: 'ابراهيم جمال : اصغر موديل في مصر معرض الصور - أفضل مصمم أزياء و فاشون ديزاينر و عارض أزياء وصوره للموضة ' },
+            { name: 'keywords', content: 'اصغر موديل في مصر, ابراهيم جمال, افضل فاشون ديزاينر في مصر, ابراهيم موديل مصر معرض الصور, ابراهيم موديل, تصميم ازياء, فاشون, موضة' },
+            { name: 'apple-mobile-web-app-title', content:'ابراهيم افضل موديل ازياء في مصر | معرض الصور' },
+            { name: 'application-name', content:'ابراهيم افضل موديل ازياء في مصر | معرض الصور' },
+            { name: 'og:site_name', content:'ابراهيم افضل موديل ازياء في مصر | معرض الصور' },
+            { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | معرض الصور' },
+            { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | معرض الصور' },
+            { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
+            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/gallery' },
+            { name: 'subject', content: 'ابرهيم أصغر موديل في مصر معرض الصور' },
+            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/gallery' },
+            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/gallery' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

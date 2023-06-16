@@ -58,7 +58,7 @@ export default defineNuxtConfig({
         ],
         script: [
           {
-            src: 'https://www.googletagmanager.com/gtag/js?id=G-5F4FVF5QD4',
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-5R29NQVNYR',
             async: true,
             body: true,
           },
@@ -68,7 +68,7 @@ export default defineNuxtConfig({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
       
-            gtag('config', 'G-5F4FVF5QD4');
+            gtag('config', 'G-5R29NQVNYR');
             `,
             type: 'text/javascript',
           },
@@ -92,7 +92,7 @@ export default defineNuxtConfig({
       runtimeConfig: {
         public: {
           siteName: 'ابراهيم جمال : افضل موديل ازياء في مصر',
-           siteUrl: 'https://ibmodel.lineitsolutions.com',
+           siteUrl: 'https://ibrahim.elias-designer.com',
           language: 'en-US'
         }
       }

@@ -57,7 +57,21 @@ export default defineNuxtConfig({
           { name: 'format-detection', content: 'telephone=no' },
         ],
         script: [
-          // { src: '/assets/js/yt.js', body: true },
+          {
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-5F4FVF5QD4',
+            async: true,
+            body: true,
+          },
+          {
+            innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+      
+            gtag('config', 'G-5F4FVF5QD4');
+            `,
+            type: 'text/javascript',
+          },
         ],
         
         },

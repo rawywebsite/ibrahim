@@ -293,7 +293,7 @@
             { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
             { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | الرئيسية' },
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com' },
             { name: 'subject', content: 'الصفحة الرئيسية لأصغر موديل في مصر' },
             { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com' },
             { name: 'linkage', content: 'https://ibrahim.elias-designer.com' },

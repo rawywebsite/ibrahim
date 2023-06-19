@@ -160,10 +160,10 @@
             { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | اراء العملاء' },
             { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | اراء العملاء' },
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/feedback' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/feedback' },
             { name: 'subject', content: 'ابرهيم أصغر موديل في مصر اراء العملاء' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/feedback' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/feedback' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/feedback' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/feedback' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

@@ -288,10 +288,10 @@
             { name: 'og:title', content: 'Ibrahim best fashion model in Egypt' },
             { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
             { name: 'twitter:description', content: 'Ibrahim  best fashion model in Egypt' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/en' },
             { name: 'subject', content: 'Ibrahim  best fashion model in Egypt' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/en' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/en' },
         ],
         link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },

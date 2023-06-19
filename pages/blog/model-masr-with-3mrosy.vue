@@ -144,10 +144,10 @@
             { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | مع عمروسي' },
             { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | مع عمروسي' },
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3mrosy' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/blog/model-masr-with-3mrosy' },
             { name: 'subject', content: 'ابرهيم أصغر موديل في مصر مع عمروسي' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3mrosy' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3mrosy' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/blog/model-masr-with-3mrosy' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/blog/model-masr-with-3mrosy' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

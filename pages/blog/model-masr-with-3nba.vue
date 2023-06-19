@@ -144,10 +144,10 @@
             { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | مع عنبة' },
             { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | مع عنبة' },
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3nba' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/blog/model-masr-with-3nba' },
             { name: 'subject', content: 'ابرهيم أصغر موديل في مصر مع عنبة' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3nba' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/blog/model-masr-with-3nba' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/blog/model-masr-with-3nba' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/blog/model-masr-with-3nba' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

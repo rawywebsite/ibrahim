@@ -318,10 +318,10 @@ useHead({
             { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
             { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | معلومات' },
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/feedback' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/feedback' },
             { name: 'subject', content: 'ابرهيم أصغر موديل في مصر معلومات' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/feedback' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/feedback' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/feedback' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/feedback' },
         ],
   script: [
   { hid: 'instagram', type: 'text/javascript', src: '//www.instagram.com/embed.js', async: true, defer: true },

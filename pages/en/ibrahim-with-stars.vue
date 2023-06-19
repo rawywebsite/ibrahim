@@ -240,10 +240,10 @@
             { name: 'og:title', content: 'Ibrahim best fashion model in Egypt with stars' },
             { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
             { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt with stars' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/ibrahim-with-stars' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/en/ibrahim-with-stars' },
             { name: 'subject', content: 'Ibrahim best fashion model in Egypt with stars' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/ibrahim-with-stars' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/ibrahim-with-stars' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/en/ibrahim-with-stars' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/en/ibrahim-with-stars' },
         ],
     link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },

@@ -156,8 +156,8 @@
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
             { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/gallery' },
             { name: 'subject', content: 'ابرهيم أصغر موديل في مصر معرض الصور' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/gallery' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/gallery' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/gallery' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/gallery' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

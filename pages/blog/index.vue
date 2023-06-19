@@ -50,10 +50,10 @@
             { name: 'og:title', content:'ابراهيم افضل موديل ازياء في مصر | مقالات مفيدة' },
             { name: 'og:description', content:'ابراهيم افضل موديل ازياء في مصر | مقالات مفيدة' },
             { name: 'twitter:description', content: 'ابراهيم افضل موديل ازياء في مصر' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/blog' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/blog' },
             { name: 'subject', content: 'ابرهيم أصغر موديل في مصر مقالات مفيدة' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/blog' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/blog' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/blog' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.comm/blog' },
         ],
     script: [
               { src: '/assets/js/jquery.js', body: true },

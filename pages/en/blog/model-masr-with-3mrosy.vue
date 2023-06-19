@@ -145,10 +145,10 @@
             { name: 'og:title', content: 'Ibrahim best fashion model in Egypt Deal With 3mrosy' },
             { name: 'og:description', content: 'Ibrahim best fashion model in Egypt' },
             { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt Deal With 3mrosy' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/blog/model-masr-with-3mrosy' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/en/blog/model-masr-with-3mrosy' },
             { name: 'subject', content: 'Ibrahim best fashion model in Egypt Deal With 3mrosy' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/blog/model-masr-with-3mrosy' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/blog/model-masr-with-3mrosy' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/en/blog/model-masr-with-3mrosy' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/en/blog/model-masr-with-3mrosy' },
         ],
     link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },

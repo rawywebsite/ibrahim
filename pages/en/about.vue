@@ -314,10 +314,10 @@ useHead({
             { name: 'og:title', content: 'Ibrahim best fashion model in Egypt Busines' },
             { name: 'og:description', content: 'Ibrahimbest fashion model in Egypt' },
             { name: 'twitter:description', content: 'Ibrahim best fashion model in Egypt Busines' },
-            { name: 'og:url', content: 'https://ibmodel.lineitsolutions.com/en/about' },
+            { name: 'og:url', content: 'https://ibrahim.elias-designer.com/en/about' },
             { name: 'subject', content: 'Ibrahim best fashion model in Egypt Busines' },
-            { name: 'identifier-URL', content: 'https://ibmodel.lineitsolutions.com/en/about' },
-            { name: 'linkage', content: 'https://ibmodel.lineitsolutions.com/en/about' },
+            { name: 'identifier-URL', content: 'https://ibrahim.elias-designer.com/en/about' },
+            { name: 'linkage', content: 'https://ibrahim.elias-designer.com/en/about' },
         ],
   link: [
             { rel: 'stylesheet', href: '/assets/css/en.css' },
